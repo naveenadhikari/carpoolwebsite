@@ -1,0 +1,160 @@
+body {
+  text-align: center;
+}
+.ma{
+  margin:20px 10px;
+  padding:60px 0px;
+}
+h1 {
+  padding:60px 0px;
+  color: #11999E;
+  font-size: 80px;
+  position: relative;
+  left: 500px;
+  width: 450px;
+  font-family: 'Rubik Moonrocks', cursive;
+}
+
+.icon {
+  position: absolute;
+  right: 380px;
+  width: 10%;
+  bottom: 395px;
+}
+
+#pa {
+
+
+  font-size: 40px;
+  position: absolute;
+  left: 500px;
+  bottom:375px;
+  width: 450px;
+  font-family: 'Edu QLD Beginner', cursive;
+}
+
+.about {
+  font-family: 'Edu QLD Beginner', cursive;
+
+
+  width: 60%;
+  margin:100px auto 100px auto;
+
+}
+hr{
+
+}
+
+.A {
+    color: #66BFBF;
+  font-size: 60px;
+}
+.des{
+  font-size: 25px;
+  clear: left;
+}
+#ab{
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.middle-container{
+  margin:100px 0px;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Edu QLD Beginner', cursive;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.b1 {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Edu QLD Beginner', cursive;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.b1:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.b2{
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Edu QLD Beginner', cursive;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.b2:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+a{
+  font-size: 30px;
+  color: #11999E;
+  margin:10px 20px;
+  text-decoration: none;;
+}
+.nam{
+  margin:10px 20px;
+  font-size: 20px;
+  padding:20px 0px;
+}
+
+#ob{
+
+  font-size: 30px;
+  margin:10px 20px;
+  padding:20px 0px;
+}
